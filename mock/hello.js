@@ -8,6 +8,7 @@ module.exports = {
   api: '/api/hello',
   response: function (req, res) {
     res.send(`
+      <p>杨能康</p>
       <p>
         To get a better understanding of how this boilerplate works, check out
         <a href="http://vuejs-templates.github.io/webpack" target="_blank">its documentation</a>.
