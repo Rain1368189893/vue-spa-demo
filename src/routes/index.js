@@ -1,7 +1,3 @@
-/**
- * @file
- * Created by hanan on 16/10/15.
- */
 const Hello = r => require(['views/hello'], r);
 const Test = r => require(['views/test'], r);
 const NotFound = r => require(['views/notfound'], r);
